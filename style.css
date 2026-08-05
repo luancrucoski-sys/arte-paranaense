@@ -1,4 +1,12 @@
 body{
     background-color:black (209, 209, 236);
 }
-
+header{
+    background-color: azure;
+}
+main{
+    background-color: blue;
+}
+section{
+    background-color: brown;
+}
