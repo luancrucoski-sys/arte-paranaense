@@ -1,12 +1,88 @@
-body{
-    background-color:black (209, 209, 236);
+body {
+    background-color:rgb(243, 240, 240);
+    color:rgb(11, 12, 12);
+    font-family: Arial, sans-serif;
+    margin: 0;
 }
-header{
-    background-color: azure;
+header {
+    background-color:black;
+    color:rgb(238, 235, 238);
+    text-align: center;
+    padding: 30px;
 }
-main{
-    background-color: blue;
+
+h1 {
+    font-size: 36px;
 }
-section{
-    background-color: brown;
+
+h2 {
+    color:rgb(216, 204, 204);
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    color:rgb(240, 240, 240);
+    text-decoration: none;
+    background-color:rgb(0, 0, 0);
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 5px;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color:rgb(242, 243, 240);
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+section {
+    background-color:rgb(0, 0, 0);
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: auto;
+    border-radius: 12px;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 14px;
+    color:rgb(10, 10, 10);
+    margin-top: 8px;
+}
+
+.card {
+    background-color:rgb(248, 247, 248);
+    padding: 15px;
+    margin: 15px 0;
+    border-left: 6px solid #0c0c0c;
+    border-radius: 10px;
+}
+
+.card h3 {
+    margin-top: 0;
+}
+footer {
+    background-color: #222222;
+    color:rgba(221, 224, 224, 0.993);
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
 }
