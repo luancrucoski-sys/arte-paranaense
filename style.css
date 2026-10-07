@@ -29,7 +29,7 @@ h1 {
 }
 
 h2 {
-    color:rgb(216, 204, 204);
+    color:rgb(141, 75, 75);
 }
 
 p {
@@ -41,7 +41,7 @@ nav {
 }
 
 nav a {
-    color:rgb(240, 240, 240);
+    color:rgb(31, 201, 73);
     text-decoration: none;
     background-color:rgb(0, 0, 0);
     padding: 10px 15px;
@@ -51,7 +51,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color:rgb(242, 243, 240);
+    background-color:rgb(146, 219, 0);
 }
 
 main {
@@ -60,7 +60,7 @@ main {
 }
 
 section {
-    background-color:rgb(0, 0, 0);
+    background-color:rgb(165, 67, 67);
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
@@ -82,10 +82,10 @@ figcaption {
 }
 
 .card {
-    background-color:rgb(248, 247, 248);
+    background-color:rgb(196, 19, 196);
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #0c0c0c;
+    border-left: 6px solid #e2cc08;
     border-radius: 10px;
 }
 
@@ -94,7 +94,7 @@ figcaption {
 }
 footer {
     background-color: #222222;
-    color:rgba(221, 224, 224, 0.993);
+    color:rgba(11, 212, 212, 0.993);
     text-align: center;
     padding: 20px;
     margin-top: 30px;
