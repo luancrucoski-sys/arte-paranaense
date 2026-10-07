@@ -4,10 +4,10 @@ root{
     --cor-principal:#6b2d5c;
     --cor-secundaria:#9b4d83;
     --cor-hover:#c77dff;
-    --cor-superficie:white;
-    --cor-card:#f3d9fa;
+    --cor-superficie:rgb(32, 159, 218);
+    --cor-card:#a819cf;
     --corlegenda:#555555;
-    --cor-clara:white;
+    --cor-clara:rgb(62, 233, 10);
     --cor-rodape:#222222;
     
 }
